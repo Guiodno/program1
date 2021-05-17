@@ -55,5 +55,9 @@ body
     margin-left: -15px;
 }
 .row{
-    color: aqua;
+    color: brown;
+}
+.card
+{
+    color: chartreuse;
 }
